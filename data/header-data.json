@@ -1,0 +1,788 @@
+{
+    "header":{
+        "nav":[
+            {
+                "type": 0,
+                "description": "推荐"
+            },
+            {
+                "type": 1,
+                "description": "视频"
+            },
+            {
+                "type": 2,
+                "description": "电台·听书"
+            },
+            {
+                "type": 3,
+                "description": "关注"
+            },
+            {
+                "type": 4,
+                "description": "同城"
+            },
+            {
+                "type": 5,
+                "description": "我的"
+            },
+            {
+                "type": 6,
+                "description": "点歌"
+            },
+            {
+                "type": 7,
+                "description": "K房"
+            },
+            {
+                "type": 8,
+                "description": "动态"
+            },
+            {
+                "type": 9,
+                "description": "关注"
+            },
+            {
+                "type": 10,
+                "description": "消息"
+            }
+        ]
+    },
+    "songmenu":{
+        "menu":[
+            {
+                "id": "0",
+                "songer":"戚薇、杨宗纬",
+                "song":"为了遇见你",
+                "playnum":"1.5万",
+                "urlimg": "../assets/img/GD1.jpg",
+                "title": "深秋童话"
+            },
+            {
+                "id": "1",
+                "songer":"后弦",
+                "song":"昆明湖",
+                "playnum":"5804",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=6&spn=0&di=98230&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3351303651%2C2225920634&os=2375481473%2C148618170&simid=3464978121%2C404519437&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fcdn.lizhi.fm%2Fradio_cover%2F2014%2F08%2F17%2F13756960932530436.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3F4r_z%26e3Btpusy_z%26e3BgjpAzdH3Fw6ptvsjAzdH3Fr-%25El%25lm%25AD%25EF%25BD%25bm%25Em%25A9%25bd%25El%25AA%25lE%25Em%25lD%25l8%25E0%25lA%25AF%25Ec%25A0%25lD%25Ec%25B8%25BE%25Em%25B9%25Bb_z%26e3Bip4s&gsm=9&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "夏日金曲"
+            },
+            {
+                "id": "2",
+                "songer":"二小姐",
+                "song":"不一样的美",
+                "playnum":"2.2万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=19&spn=0&di=23320&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2175853454%2C226279420&os=123745548%2C3531866367&simid=4106543694%2C662257429&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%3D580%2Fsign%3D851352445543fbf2c52ca62b807fca1e%2Fca80b30e7bec54e7759e6d52bf389b504ec26a4f.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fptjkwv_z%26e3Bkwt17_z%26e3Bv54AzdH3FrAzdH3F9acdmbbm98%3Frt1%3D0ma9ccl8nma%26vt1%3D&gsm=15&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "劲爆DJ"
+            },
+            {
+                "id": "3",
+                "songer":"何鹏",
+                "song":"大家都很忙",
+                "playnum":"1.8万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=16&spn=0&di=45980&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3432700068%2C2965396362&os=1978460047%2C347929936&simid=3465156396%2C554903141&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201807%2F19%2F20180719164704_rlymp.thumb.700_0.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dlclm9b0md&gsm=12&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "全名K歌"
+            },
+            {
+                "id": "4",
+                "songer":"杨小壮",
+                "song":"微笑吧",
+                "playnum":"9798",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=12&spn=0&di=37400&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3520830413%2C1332631585&os=4172571487%2C2908365811&simid=4203630751%2C670044952&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg.51miz.com%2FElement%2F00%2F81%2F44%2F54%2F1314ec7b_E814454_19be7d3d.jpg!%2Fquality%2F90%2Funsharp%2Ftrue%2Fcompress%2Ftrue%2Fformat%2Fjpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bc84tz_z%26e3Bv54AzdH3Ff7vwtAzdH3Fb899c9_z%26e3Bip4s&gsm=f&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "热门华语"
+            },
+            {
+                "id": "5",
+                "songer":"陈泫孝(大泫)",
+                "song":"静悄悄",
+                "playnum":"4万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=53&spn=0&di=67540&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3772491541%2C91210925&os=3219024828%2C724670973&simid=3531440326%2C310430423&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fwww.qqttxx.com%2Fupimg%2Fallimg%2F130815%2Fco130Q5103Z9-4.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fojt4jtkw_z%26e3Bv54AzdH3Ff5AzdH3F%25Ec%25Ac%25Bn%25E0%25l9%25lF%25Ec%25ln%25AD%25Em%25Bn%25An%25E9%25BC%25A9%25Em%25b9%25lF%25Em%25BC%25AB%25E0%25l9%25BB%25E0%25ll%25BD%25Em%25AD%25bC%25Em%25lB%25Bd_z%26e3Bip4s&gsm=36&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "白色伤感"
+            },
+            {
+                "id": "6",
+                "songer":"陈奕迅、王菲",
+                "song":"因为爱情",
+                "playnum":"2.7万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=58&spn=0&di=102410&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=434223283%2C1335787730&os=1171433110%2C1029116751&simid=0%2C0&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fgss0.baidu.com%2F9fo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F72f082025aafa40fe99fb0b0af64034f78f01905.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fzit1w5_z%26e3Bkwt17_z%26e3Bv54AzdH3Fq7jfpt5gAzdH3F088bc809b909dld99c_z%26e3Bip4s&gsm=3b&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "繁忙都市"
+            },
+            {
+                "id": "7",
+                "songer":"梅艳芳",
+                "song":"女人花",
+                "playnum":"1万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=67&spn=0&di=118580&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3454230488%2C1666586515&os=4269001256%2C64016205&simid=0%2C0&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fpic32.nipic.com%2F20130810%2F2531170_174933040000_2.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B4wsj451jsfrtvp76j_z%26e3BgjpAzdH3F%25Em%25Bm%25l9%25EF%25Bb%25BE%25Em%25lc%25BE%25El%25bE%25BD%25Ec%25bB%25AB%25Ec%25Ac%25lm%25E0%25b8%25lE%25Em%25lB%25A8%25EE%25b0%25AC%25El%25bF%25bC%25EE%25b9%25ba%25Ec%25l9%25B9%25E0%25ba%25Bl%25El%25ba%25lB%25Ec%25bA%25lF%25El%25la%25Ad%25E0%25BB%25lb%25Em%25bm%25lA%25Eb%25A9%25Ba%25Ec%25bD%25lE%25E0%25lD%25bD%25E0%25ld%25b0%25El%25l9%25bB%25E0%25bc%25AC%25El%25la%25l0%25Ec%25Aa%25Ac%25Em%25BD%25Ba%25E0%25ld%25b8%25Em%25bD%25la%25EE%25bc%25BbAzdH3F%25Em%25Bm%25l9%25EF%25Bb%25BE%25Em%25lc%25BE%25El%25bE%25BD%25Ec%25bB%25AB%25Ec%25Ac%25lm%25E0%25b8%25lE%25Em%25lB%25A8%25EE%25b0%25AC%25El%25bF%25bC%25EE%25b9%25ba%25Ec%25l9%25B9%25E0%25ba%25Bl%25El%25ba%25lB%25Ec%25bA%25lF%25El%25la%25Ad%25E0%25BB%25lb%25Em%25bm%25lA%25Eb%25A9%25Ba%25Ec%25bD%25lE%25E0%25lD%25bD%25E0%25ld%25b0%25El%25l9%25bB%25E0%25bc%25AC%25El%25la%25l0%25Ec%25Aa%25Ac%25Em%25BD%25Ba%25E0%25ld%25b8%25Em%25bD%25la%25EE%25bc%25Bb_z%26e3Bip4s&gsm=44&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "节日庆祝"
+            },
+            {
+                "id": "8",
+                "songer":"胖虎",
+                "song":"山楂树之恋",
+                "playnum":"3.5万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=63&spn=0&di=59950&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2061093253%2C3760537834&os=1814565228%2C3096215528&simid=3477435716%2C313599347&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F7930463546%2F640&fromurl=ippr_z2C%24qAzdH3FAzdH3Fgjo_z%26e3Bqq_z%26e3Bv54AzdH3F54gAzdH3Fda8lana8AzdH3Fda8lana8AaXNdG_z%26e3Bip4s&gsm=40&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "粉色文艺"
+            },
+            {
+                "id": "9",
+                "songer":"罗百吉",
+                "song":"爱在发烧",
+                "playnum":"2.9万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&step_word=&hs=0&pn=112&spn=0&di=45100&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2091349724%2C981004396&os=2630731824%2C921614213&simid=3327792528%2C251078678&adpicid=0&lpn=0&ln=770&fr=&fmq=1587345275644_R&fm=index&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fi.nibaku.com%2Fimg_1_1265224870x3191517913_26.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bgtkwh7_z%26e3Bv54AzdH3F6j1twgAzdH3Fp7_kkhg6_z%26e3Bip4s&gsm=72&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "粉色格桑"
+            },
+            {
+                "id": "10",
+                "songer":"皮卡丘多多",
+                "song":"惊雷",
+                "playnum":"1.7万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=10&spn=0&di=330&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3489702700%2C929551213&os=1144394211%2C2836254293&simid=4163836875%2C600386665&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fwww.1-eye.cn%2Fimg.php%3Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201708%2F15%2F20170815215703_WKeyB.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B8-jyj_z%26e3BvgAzdH3F%25Ec%25Ac%25BD%25E0%25lC%25bB%25E0%25lA%25b9%25Em%25AD%25bC%25Ec%25bD%25lc%25Ec%25Ba%25b8%25El%25lD%25Ad%25Ec%25lB%25BE%25E0%25bl%25b0_z%26e3Bip4s&gsm=c&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "深夜好梦"
+            },
+            {
+                "id": "11",
+                "songer":"毛不易",
+                "song":"小王",
+                "playnum":"8.5万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=11&spn=0&di=24420&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3895096150%2C3637860459&os=1145252299%2C2686765939&simid=3483645633%2C400812041&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201802%2F22%2F20180222113113_2WduL.thumb.700_0.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dbla0mlln8&gsm=d&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "唯美伤感"
+            },
+            {
+                "id": "12",
+                "songer":"林俊杰",
+                "song":"曹操",
+                "playnum":"7114",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=14&spn=0&di=40150&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3203446521%2C527908&os=42040655%2C3065165079&simid=3393852105%2C277885993&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201810%2F11%2F20181011082649_gilnq.thumb.400_0.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52fAzdH3Fpw2AzdH3F%3Fgw4j%3D%25Ec%25A0%25lD%25Ec%25B8%25BD%25Ec%25B9%25lF%26fpw6p%3Dd8m%26st4tp%3Dd9&gsm=12&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "怀旧金曲"
+            },
+            {
+                "id": "13",
+                "songer":"Bryan Adams",
+                "song":"Here I Am",
+                "playnum":"1.7万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=8&spn=0&di=112420&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1998906410%2C1768481666&os=4196989347%2C3882690898&simid=4283991183%2C814392435&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201706%2F26%2F20170626101746_P38uJ.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3D00n0bmbd9&gsm=f&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "ACG"
+            },
+            {
+                "id": "14",
+                "songer":"卢小鱼、宝二",
+                "song":"今朝有酒今朝醉",
+                "playnum":"8063",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=23&spn=0&di=94710&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2834635144%2C735328281&os=1253099137%2C2846379876&simid=3541144599%2C480885795&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201804%2F30%2F20180430163245_Q2Nnz.thumb.700_0.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dldaa08nan&gsm=1d&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "小桥古镇"
+            },
+            {
+                "id": "15",
+                "songer":"陈奕迅",
+                "song":"浮夸",
+                "playnum":"1万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=31&spn=0&di=51150&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1875984105%2C3253879567&os=1660577562%2C3361719140&simid=3549460574%2C490808515&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201602%2F24%2F20160224151754_wHeaF.thumb.700_0.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fvswff_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dcnb8nc0dn&gsm=26&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "童话幻想"
+            },
+            {
+                "id": "16",
+                "songer":"金文岐",
+                "song":"直到遇见你",
+                "playnum":"4769",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=76&spn=0&di=57860&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3913194525%2C3531649693&os=4072770169%2C1111603584&simid=0%2C0&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fcdnimg103.lizhi.fm%2Faudio_cover%2F2017%2F11%2F13%2F2635639690484123143_320x320.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bstzit_z%26e3Bu4AzdH3Fd0blcddmAzdH3Fdmncmnlmla9b8llbn9d&gsm=4a&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "夕阳下的相遇"
+            },
+            {
+                "id": "17",
+                "songer":"回音哥、林子琦",
+                "song":"僵持",
+                "playnum":"1002",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=61&spn=0&di=106150&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2425332713%2C653499325&os=2286821265%2C4278150333&simid=3453573799%2C165665978&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fcdn.lizhi.fm%2Faudio_cover%2F2016%2F06%2F21%2F29403106947308039.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bojtk5_z%26e3Bv54AzdH3FrAzdH3F8aacacdbc9cd9ac9AzdH3Fi54j%3Fu654%3Drw2j_8aacac%26451%3DTAB&gsm=3c&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "雨季歌单"
+            },
+            {
+                "id": "18",
+                "songer":"马天宇",
+                "song":"我也曾经像你一样",
+                "playnum":"1.3万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=55&spn=0&di=104610&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2484704645%2C1482398127&os=136976928%2C2966361402&simid=4250892874%2C739441295&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201809%2F30%2F20180930214948_iekch.thumb.700_0.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dlllm8cb0m&gsm=36&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "黄金时代"
+            },
+            {
+                "id": "19",
+                "songer":"蒋婴",
+                "song":"昨夜有人在流泪",
+                "playnum":"1479",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=42&spn=0&di=14850&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2865668006%2C2720861614&os=3912477563%2C3174930457&simid=4044028624%2C521318723&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fwx4.sinaimg.cn%2Flarge%2F72cbf277ly1fy615mt7ytj20ak07sjrc.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bll0t_z%26e3Bv54AzdH3F%25Ec%25A0%25lb%25Em%25bb%25An%25Ec%25lF%25bn%25El%25bD%25Ac%25Ec%25bl%25A0%25Ec%25Ad%25lm%25Em%25BE%25Bl%25E9%25BD%25BA%25E0%25b9%25bAAzdH3F&gsm=2a&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "民俗歌谣"
+            },
+            {
+                "id": "20",
+                "songer":"DJ",
+                "song":"The Power Of Please(DJ)",
+                "playnum":"2万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=45&spn=0&di=104390&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3753708828%2C4171476442&os=240678093%2C2622460920&simid=3439390049%2C214931153&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F9345d688d43f87947a12950ad81b0ef41bd53a21.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fojt4jtkw_z%26e3Bv54AzdH3Ff5AzdH3F%25Em%25Bm%25ln%25E0%25BB%25lb%25Em%25bC%25B8rh%25El%25l8%25Bn%25Ec%25B8%25BE%25Em%25AB%25ll%25El%25l0%25bA%25Ec%25bc%25bc%25E0%25AE%25Ba%25Ec%25A0%25lD%25Ec%25B8%25BD%25Ec%25B9%25lF_z%26e3Bip4s&gsm=2c&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "主播PK"
+            },
+            {
+                "id": "21",
+                "songer":"好妹妹",
+                "song":"周末我们去海边",
+                "playnum":"310",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=134&spn=0&di=68970&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3130131503%2C2827276331&os=1174056475%2C2790558442&simid=4238048301%2C720717770&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fwsing.bssdl.kugou.com%2Fbf6164afb0f29febd524affbebb21289.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fcftg2_z%26e3Bh7257_z%26e3Bv54AzdH3F21AzdH3F21Ltfp%3Fpw2Nw4j%3D%25Eb%25BD%25BB%25El%25lF%25Bn%25E9%25Bl%25la&gsm=84&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "海天一色"
+            },
+            {
+                "id": "22",
+                "songer":"Don Diablo、Jeassie J",
+                "song":"Brave",
+                "playnum":"450",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=30&spn=0&di=11990&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1086932687%2C479664030&os=1422154009%2C4285005763&simid=3324805663%2C160142713&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F2e3464217faa530ae821575514bb0bbd61d9b662d944-hRXZUg_fw658&fromurl=ippr_z2C%24qAzdH3FAzdH3Fi7wkwg_z%26e3Bv54AzdH3Fk5w61fAzdH3F9dbm0dcaAzdH3F&gsm=24&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "极品RAP"
+            },
+            {
+                "id": "23",
+                "songer":"Mr. Miss",
+                "song":"明天的烦恼交给明天的我",
+                "playnum":"3802",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=109&spn=0&di=48730&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=321306799%2C2021532205&os=1369041585%2C2328517542&simid=0%2C0&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20180514%2Fc023c7a74eae474f99f2a00435c7aef6.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bf5i7_z%26e3Bv54AzdH3FwAzdH3Fdn89bcln0_d898mc&gsm=6e&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "昨日歌单"
+            },
+            {
+                "id": "24",
+                "songer":"张伟",
+                "song":"黑白",
+                "playnum":"2431",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=81&spn=0&di=92620&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=4249505745%2C477931048&os=4216437561%2C2553656671&simid=0%2C0&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fspider.nosdn.127.net%2Fede229fc67fb2f0eeed76e7eee5a9a78.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3F1y_z%26e3B8mn_z%26e3Bv54AzdH3FedAzdH3Fw6ptvsjAzdH3F1jpwtsAzdH3FDSFm0PPmacnaVCSa_z%26e3Bip4s&gsm=4f&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "中秋歌单"
+            },
+            {
+                "id": "25",
+                "songer":"张学友",
+                "song":"她来听我的演唱会",
+                "playnum":"2.7万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=80&spn=0&di=9900&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2467202133%2C2044369161&os=3760603173%2C3394827740&simid=3525403016%2C685346516&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fp4.music.126.net%2FEUA4pFZ7geeDsRaSll7Yig%3D%3D%2F109951162889304196.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo9_z%26e3Bu6jjr_z%26e3BvgAzdH3Fi5pAzdH3F8dd00cd_z%26e3Bip4s&gsm=4e&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "抖音热曲"
+            },
+            {
+                "id": "26",
+                "songer":"龙飞",
+                "song":"一万次伤心",
+                "playnum":"2.9万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=69&spn=0&di=84700&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=234968963%2C3534873650&os=4270585812%2C2911616045&simid=3388653121%2C115368832&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201809%2F30%2F20180930221440_ggffm.thumb.400_0.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52fAzdH3Fpw2AzdH3F%3Fgw4j%3D%25El%25bE%25B9%25Em%25bb%25lE%25E0%25l8%25BA%25Em%25Bc%25An%25E0%25bA%25B8%25E0%25AB%25B9%25Em%25An%25An%25Em%25Aa%25Ab%25E0%25ln%25lc%26fpw6p%3Dnnnm%26st4tp%3Dd9&gsm=47&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "我欠你一首歌"
+            },
+            {
+                "id": "27",
+                "songer":"Avivii",
+                "song":"Hey Brother",
+                "playnum":"1789",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=67&spn=0&di=52580&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2852288449%2C2773026955&os=3884992506%2C771272780&simid=22051904%2C741612498&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201808%2F08%2F20180808233819_efbjk.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dl0dlcmc0a&gsm=46&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "欧美热曲"
+            },
+            {
+                "id": "28",
+                "songer":"Hellberg",
+                "song":"Kind of Blue",
+                "playnum":"739",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=78&spn=0&di=10230&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1338004934%2C3728860519&os=1156846481%2C3637878307&simid=4198141877%2C765943200&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01d9935a4e27a1a8012197412be836.jpg%401280w_1l_2o_100sh.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bzv55s_z%26e3Bv54_z%26e3BvgAzdH3Fo56hAzdH3FZM3U8NzEdMTI%3D_z%26e3Bip4s&gsm=57&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "夏季热曲"
+            },
+            {
+                "id": "29",
+                "songer":"Glenn Astro、Imyrmind",
+                "song":"Bochum",
+                "playnum":"276",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=70&spn=0&di=108460&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2962475803%2C356086337&os=3530644422%2C2968836840&simid=0%2C0&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201810%2F26%2F2018102610852_C3dPc.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3D8a8am0c0ld&gsm=&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "梦幻弦音"
+            },
+            {
+                "id": "30",
+                "songer":"何鹏、雪十郎",
+                "song":"谁",
+                "playnum":"2万",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=121&spn=0&di=4620&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1072468370%2C967810486&os=2359550278%2C660016592&simid=0%2C0&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0165195bd40413a8012099c80adeec.jpg%401280w_1l_2o_100sh.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bzv55s_z%26e3Bv54_z%26e3BvgAzdH3Fo56hAzdH3FZMzAcN3vdMDQ%3D_z%26e3Bip4s&gsm=7f&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "他和她"
+            },
+            {
+                "id": "31",
+                "songer":"Tobu、Syndec",
+                "song":"Dusk",
+                "playnum":"341",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=123&spn=0&di=69190&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2194349598%2C2654711984&os=2477723459%2C1863220306&simid=3333554747%2C52581120&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fp4.music.126.net%2FH1DEJcz8Ox5mejEZXEtmDQ%3D%3D%2F3273246122530182.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fz75ojjg_z%26e3Bp7xt_z%26e3Bv54_z%26e3BvgAzdH3Fetjok-8lcdd980b9a8l8b-8lcdd980b9a8l8b8bmb_z%26e3Bip4s&gsm=81&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "欧美电音"
+            },
+            {
+                "id": "32",
+                "songer":"Space Laces",
+                "song":"Phone Tap",
+                "playnum":"553",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=9&spn=0&di=73370&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2443354429%2C2834454563&os=3312754862%2C2471457064&simid=4157374085%2C606503283&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fp3.music.126.net%2F-qA_abLP5Zj4082VlF0mrw%3D%3D%2F7909886650460518.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3F47ftv_z%26e3B8mn_z%26e3Bv54AzdH3Frswystfp%3Ft1%3Dc8nlmd8l&gsm=9&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "梦与现实"
+            },
+            {
+                "id": "33",
+                "songer":"The xx",
+                "song":"Intro",
+                "playnum":"652",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=48&spn=0&di=102190&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=774527905%2C3502625772&os=679722853%2C1752888924&simid=0%2C0&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F20181%2F30%2F20181301778_mkMci.thumb.224_0.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fwsk74AzdH3F%3Ft1%3Db00n8bmn&gsm=33&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "黄昏惆怅"
+            },
+            {
+                "id": "34",
+                "songer":"Lawrence",
+                "song":"All of Me",
+                "playnum":"964",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=36&spn=0&di=92070&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1140618657%2C2485418833&os=2252299%2C293321512&simid=3381336266%2C398201099&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201611%2F05%2F20161105223154_aXKVe.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dbclaa090a&gsm=2a&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "日语金曲"
+            },
+            {
+                "id": "35",
+                "songer":"王菲",
+                "song":"可爱眼睛",
+                "playnum":"4141",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=54&spn=0&di=52690&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3762810556%2C4236651295&os=1322463692%2C3295430934&simid=3480638233%2C442970910&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201602%2F27%2F20160227132833_vc4UX.thumb.700_0.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dcnl99a0dd&gsm=39&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "温暖治愈"
+            },
+            {
+                "id": "36",
+                "songer":"吴镇宇、乔杉",
+                "song":"友情岁月",
+                "playnum":"2155",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=29&spn=0&di=9900&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=3942410184%2C551686823&os=3506882014%2C1506795972&simid=4252877312%2C872260970&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fwww.1-eye.cn%2Fimg.php%3Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201509%2F11%2F20150911102304_M8Kit.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B8-jyj_z%26e3BvgAzdH3F%25El%25bD%25ll%25EE%25bb%25ll%25E0%25AC%25bl%25El%25bD%25ll%25EE%25bb%25ll%25E9%25BA%25ld%25Ec%25A0%25lD%25Ec%25B8%25BE%25Em%25B9%25Bb%25E0%25b8%25bF%25E9%25BE%25ba%25Em%25BD%25Ba%25El%25bD%25Ac%25Ec%25bl%25A0%25Ec%25Ad%25lm_z%26e3Bip4s&gsm=25&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "古树旋律"
+            },
+            {
+                "id": "37",
+                "songer":"吴淑敏",
+                "song":"少女的心声",
+                "playnum":"908",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=38&spn=0&di=25960&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=4030921872%2C334372910&os=54643333%2C169094007&simid=3487714123%2C179274351&adpicid=0&lpn=0&ln=898&fr=&fmq=1587345756181_R&fm=rs8&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF%E5%9B%BE&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201706%2F04%2F20170604150356_UjXS2.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dbmab0n0ln&gsm=2c&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "那时的我们"
+            },
+            {
+                "id": "38",
+                "songer":"韩宝仪",
+                "song":"你潇洒我漂亮",
+                "playnum":"1146",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=35&spn=0&di=4510&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2955295463%2C220915487&os=347192561%2C1246095531&simid=3314657810%2C44792532&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170620%2F5eb00bb8922e4047a6e0d9600c67c7ac_th.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3F4p_z%26e3Bf5i7_z%26e3Bv54AzdH3Fda80am8lAzdH3Fg9l0080ba9_z%26e3Bfip4s&gsm=22&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "最后的歌单"
+            },
+            {
+                "id": "39",
+                "songer":"陈粒",
+                "song":"奇妙能力歌",
+                "playnum":"282",
+                "urlimg": "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%AD%8C%E5%8D%95%E8%83%8C%E6%99%AF&step_word=&hs=0&pn=150&spn=0&di=53490&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=157195476%2C1071622730&os=1151018265%2C1991647423&simid=3397327190%2C428023757&adpicid=0&lpn=0&ln=1053&fr=&fmq=1587346493685_R&fm=rs3&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=11&oriquery=%E6%AD%8C%E5%8D%95%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01cf465cb04170a801214168992013.jpg%402o.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bxtvt_z%26e3BgjpAzdH3FtvijAzdH3Fyzr-w6ptvsj-80d90a_z%26e3Bip4s&gsm=94&rpstart=0&rpnum=0&islist=&querylist=&force=undefined",
+                "title": "那些情感"
+            }
+        ]
+    },
+    "musicpor":{
+        "songer":[
+            {
+                "avatar": "http:\/\/mobileimg.kugou.com\/billImage\/150\/26-1.jpg",
+                "js":"周杰伦（Jay Chou），1979年1月18日出生于台湾省新北市，祖籍福建省泉州市永春县，中国台湾流行乐男歌手、原创音乐人、演员、导演等",
+                "time": "2001",
+                "textsong":"《七里香》、《青花瓷》、《简单爱》、《以父之名》"
+            },
+            {
+                "avatar": "http:\/\/mobileimg.kugou.com\/billImage\/150\/26-2.jpg",
+                "js":"孙燕姿（Stefanie Sun），1978年7月23日出生于新加坡，祖籍中国广东省潮州市，华语流行乐女歌手，毕业于南洋理工大学",
+                "time": "2000",
+                "textsong":"《开始懂了》、《遇见》、《我怀念的》、《懂事》、《我不难过》"
+            },
+            {
+                "avatar": "http:\/\/mobileimg.kugou.com\/billImage\/150\/26-4.jpg",
+                "js":"张韶涵（Angela Zhang），1982年1月19日出生于中国台湾省桃园市中坜区，拥有四分之一维吾尔族血统，华语流行乐女歌手、影视演员，毕业于加拿大温斯顿爵士邱吉尔中等学校",
+                "time": "2001",
+                "textsong":"《亲爱的那不是爱情》、《喜欢你没道理》、《我恋爱了》、《遗失的美好》"
+            },
+            {
+                "avatar": "http:\/\/mobileimg.kugou.com\/billImage\/150\/26-5.jpg",
+                "js":"苏打绿（Sodagreen），中国台湾乐团，由吴青峰、史俊威、谢馨仪、龚钰祺、刘家凯、何景扬组成",
+                "time": "2004",
+                "textsong":"《我好想你》、《小情歌》、《故事》、《从一片落叶开始》、《独处的时候》"
+            },
+            {
+                "avatar": "http:\/\/mobileimg.kugou.com\/billImage\/150\/26-7.jpg",
+                "js":"迈克尔·杰克逊（Michael Jackson，1958年8月29日～2009年6月25日），出生于美国印第安纳州加里市，美国流行乐男演唱家、词曲创作人、音乐家、舞蹈家、慈善家、人道主义者、和平主义者、慈善机构创办人",
+                "time": "1995",
+                "textsong":"《Beat It》、《Billie Jean》、《Dangerous》、《You Are Not Alone》"
+            },
+            {
+                "avatar": "http:\/\/mobileimg.kugou.com\/billImage\/150\/26-8.jpg",
+                "js":"Lady Gaga，原名史蒂芬妮·乔安妮·安吉丽娜·杰尔马诺塔（Stefani Joanne Angelina Germanotta），1986年3月28日出生于美国纽约曼哈顿，美国女歌手、词曲作者、演员",
+                "time": "1994",
+                "textsong":"《Just Dance》、《Poker Face》、《Bad Romance》、《Born This Way》"
+            }
+        ]
+    },
+    "gdcontent":{
+        "gd":[
+            {
+                "avimg": "https://imgessl.kugou.com/soft/collection/480/20200330/20200330170945717322.jpg",
+                "title": "霓虹の音 2020年3月号【完结】",
+                "playnum": "3979.4",
+                "singer": "日语小编-小樱"
+            },
+            {
+                "avimg": "https://imgessl.kugou.com/soft/collection/150/20200325/20200325102750855376.jpg",
+                "title": "每周推荐歌曲",
+                "playnum": "564.8",
+                "singer": "酷狗号歌单君"
+            },
+            {
+                "avimg": "https://imgessl.kugou.com/soft/collection/150/20200330/20200330165236810259.jpg",
+                "title": "韩流品鉴 2020年3月号【完结】",
+                "playnum": "215.8",
+                "singer": "酷韩话事人"
+            },
+            {
+                "avimg": "https://imgessl.kugou.com/custom/150/20200408/20200408081618388108.jpg",
+                "title": "♩生活很丧，请你务必快乐！",
+                "playnum": "22.1",
+                "singer": "予你情诗百首"
+            },
+            {
+                "avimg": "https://imgessl.kugou.com/soft/collection/150/20200407/20200407180828843157.jpg",
+                "title": "回忆经典：平成怀旧日语金曲",
+                "playnum": "55.7",
+                "singer": "日语小编-小樱"
+            },
+            {
+                "avimg": "https://p3fx.kgimg.com/soft/collection/150/20200402/20200402152529363769.jpg",
+                "title": "嘻哈势力第一期，戴好耳机领略索尼旗下的HipHop盛宴",
+                "playnum": "85.2",
+                "singer": "街头情报局"
+            }
+        ]
+    },
+    "phbcontent":{
+        "phb": [
+            {
+                "img": "https://imgessl.kugou.com/v2/rank_cover/04b10ec0bb3d8dfdc2b6cf0d30e0ebd3.jpg_240x240.jpg",
+                "title": "酷狗飙升榜",
+                "d1": "1 . 半吨兄弟 - 披着羊皮的狼",
+                "d2": "2 . 光良 - 童话"
+            },
+            {
+                "img": "https://imgessl.kugou.com/v2/rank_cover/bc23a80bf7a2e9179460ed2b6e384849.jpg_240x240.jpg",
+                "title": "酷狗TOP500",
+                "d1": "1 . 胡66 - 后来遇见他",
+                "d2": "2 . 梦然 - 少年"
+            },
+            {
+                "img": "https://imgessl.kugou.com/v2/rank_cover/47e76f9757c6bbb670630b4671961759.jpg_240x240.jpg",
+                "title": "网络红歌榜",
+                "d1": "1 . 梦然 - 少年",
+                "d2": "2 . 程响 - 世界这么大还是遇见你"
+            }
+        ]
+    },
+    "searchMusic":{
+        "search":[
+            {
+                "singer":"周杰伦",
+                "song": "晴天",
+                "songText": "《叶惠美》",
+                "time": "04:29"
+            },
+            {
+                "singer":"蓝心雨",
+                "song": "晴天",
+                "time": "02:29"
+            },
+            {
+                "singer":"欧阳耀莹",
+                "song": "晴天",
+                "songText": "《欧阳耀莹 Cover合辑》",
+                "time": "02:27"
+            },
+            {
+                "singer":"周杰伦",
+                "song": "听妈妈的话",
+                "songText": "《依然范特西》",
+                "time": "04:25"
+            },
+            {
+                "singer":"周杰伦",
+                "song": "告白气球",
+                "songText": "《周杰伦的床边故事》",
+                "time": "03:23"
+            },
+            {
+                "singer":"周杰伦",
+                "song": "稻香",
+                "songText": "《魔杰座》",
+                "time": "03:34"
+            },
+            {
+                "singer":"周杰伦",
+                "song": "七里香",
+                "songText": "《七里香》",
+                "time": "04:55"
+            },
+            {
+                "singer":"周杰伦",
+                "song": "青花瓷",
+                "songText": "《我很忙》",
+                "time": "03:29"
+            },
+            {
+                "singer":"周杰伦",
+                "song": "夜曲",
+                "songText": "《十一月的萧邦》",
+                "time": "04:00"
+            },
+            {
+                "singer":"周杰伦",
+                "song": "以父之名",
+                "songText": "《叶惠美》",
+                "time": "05:41"
+            },
+            {
+                "singer":"汪峰",
+                "song": "怒放的生命",
+                "songText": "《怒放的生命》",
+                "time": "04:36"
+            },
+            {
+                "singer":"汪峰",
+                "song": "春天里",
+                "songText": "《信仰在空中飘扬》",
+                "time": "04:39"
+            },
+            {
+                "singer":"汪峰",
+                "song": "像梦一样自由",
+                "songText": "《汪峰2017经典歌曲新编精选集》",
+                "time": "03:39"
+            },
+            {
+                "singer":"汪峰",
+                "song": "再见青春",
+                "songText": "《信仰在空中飘扬》",
+                "time": "07:39"
+            },
+            {
+                "singer":"黒うさP、初音ミク",
+                "song": "千本桜 (千本樱)",
+                "songText": "《千本桜》",
+                "time": "04:04"
+            },
+            {
+                "singer":"初音ミク",
+                "song": "極楽浄土 (极乐净土)",
+                "time": "03:39"
+            },
+            {
+                "singer":"初音ミク",
+                "song": "初梦",
+                "songText": "《初梦 Deluxe》",
+                "time": "03:41"
+            }
+        ]
+    },
+    "musicList":{
+        "music": [
+            {
+                "song": "讲不出再见",
+                "songers": "谭咏麟",
+                "album": "传奇 - 谭咏麟 梦幻的笑容",
+                "time": "04:52"
+            },
+            {
+                "song": "大田後生仔",
+                "songers": "林啟得",
+                "album": "大田後生仔",
+                "time": "03:16"
+            },
+            {
+                "song": "HEARTBEAT (album mix)",
+                "songers": "MiChi",
+                "album": "EYES WIDE OPEN",
+                "time": "03:38"
+            },
+            {
+                "song": "Drop That Booty Down Low",
+                "songers": "don Beal",
+                "album": "Truth",
+                "time": "03:19"
+            },
+            {
+                "song": "華鳥風月",
+                "songers": "森永真由美",
+                "album": "華鳥風月",
+                "time": "05:46"
+            },
+            {
+                "song": "A LIGHT THAT NEVER COMES",
+                "songers": "Linkin Pack",
+                "album": "A LIGHT THAT NEVER COMES",
+                "time": "03:49"
+            },
+            {
+                "song": "一事无成",
+                "songers": "周柏豪/郑融",
+                "album": "Imperfect Collection",
+                "time": "03:12"
+            },
+            {
+                "song": "浪子回头",
+                "songers": "茄子蛋",
+                "album": "卡通人物",
+                "time": "04:19"
+            },
+            {
+                "song": "베베 (BABE)",
+                "songers": "泫雅",
+                "album": "Following",
+                "time": "03:13"
+            },
+            {
+                "song": "Blessing",
+                "songers": "初音ミク/鏡音リン",
+                "album": "最新热歌慢摇71",
+                "time": "04:39"
+            },
+            {
+                "song": "Melody Line",
+                "songers": "SmileR",
+                "album": "Melody Line(s)",
+                "time": "03:17"
+            },
+            {
+                "song": "All I Have Is Love",
+                "songers": "Stevie Hoang",
+                "album": "Summer Love",
+                "time": "03:32"
+            },
+            {
+                "song": "それでも君が好き",
+                "songers": "SPICY CHOCOLATE",
+                "album": "渋谷純愛物語",
+                "time": "03:54"
+            },
+            {
+                "song": "When You're In Love",
+                "songers": "Lee Carr",
+                "album": "Better Late Than Never",
+                "time": "04:22"
+            },
+            {
+                "song": "布拉格广场",
+                "songers": "蔡依林/周杰伦",
+                "album": "看我72变",
+                "time": "04:54"
+            },
+            {
+                "song": "感谢你曾来过",
+                "songers": "周思涵/Ayo97",
+                "album": "卧龙与酒",
+                "time": "04:10"
+            },
+            {
+                "song": "Wildfire  (Piano and Violin Version)",
+                "songers": "Syml",
+                "album": "Wildfire (Instrumentals)",
+                "time": "03:38"
+            },
+            {
+                "song": "讲不出再见",
+                "songers": "谭咏麟",
+                "album": "传奇 - 谭咏麟 梦幻的笑容",
+                "time": "04:52"
+            },
+            {
+                "song": "大田後生仔",
+                "songers": "林啟得",
+                "album": "大田後生仔",
+                "time": "03:16"
+            },
+            {
+                "song": "HEARTBEAT (album mix)",
+                "songers": "MiChi",
+                "album": "EYES WIDE OPEN",
+                "time": "03:38"
+            },
+            {
+                "song": "Drop That Booty Down Low",
+                "songers": "don Beal",
+                "album": "Truth",
+                "time": "03:19"
+            },
+            {
+                "song": "華鳥風月",
+                "songers": "森永真由美",
+                "album": "華鳥風月",
+                "time": "05:46"
+            },
+            {
+                "song": "A LIGHT THAT NEVER COMES",
+                "songers": "Linkin Pack",
+                "album": "A LIGHT THAT NEVER COMES",
+                "time": "03:49"
+            },
+            {
+                "song": "一事无成",
+                "songers": "周柏豪/郑融",
+                "album": "Imperfect Collection",
+                "time": "03:12"
+            },
+            {
+                "song": "浪子回头",
+                "songers": "茄子蛋",
+                "album": "卡通人物",
+                "time": "04:19"
+            },
+            {
+                "song": "베베 (BABE)",
+                "songers": "泫雅",
+                "album": "Following",
+                "time": "03:13"
+            },
+            {
+                "song": "Blessing",
+                "songers": "初音ミク/鏡音リン",
+                "album": "最新热歌慢摇71",
+                "time": "04:39"
+            },
+            {
+                "song": "Melody Line",
+                "songers": "SmileR",
+                "album": "Melody Line(s)",
+                "time": "03:17"
+            },
+            {
+                "song": "All I Have Is Love",
+                "songers": "Stevie Hoang",
+                "album": "Summer Love",
+                "time": "03:32"
+            },
+            {
+                "song": "それでも君が好き",
+                "songers": "SPICY CHOCOLATE",
+                "album": "渋谷純愛物語",
+                "time": "03:54"
+            },
+            {
+                "song": "When You're In Love",
+                "songers": "Lee Carr",
+                "album": "Better Late Than Never",
+                "time": "04:22"
+            },
+            {
+                "song": "布拉格广场",
+                "songers": "蔡依林/周杰伦",
+                "album": "看我72变",
+                "time": "04:54"
+            },
+            {
+                "song": "感谢你曾来过",
+                "songers": "周思涵/Ayo97",
+                "album": "卧龙与酒",
+                "time": "04:10"
+            },
+            {
+                "song": "Wildfire  (Piano and Violin Version)",
+                "songers": "Syml",
+                "album": "Wildfire (Instrumentals)",
+                "time": "03:38"
+            }
+        ]
+    }
+}
